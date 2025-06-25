@@ -11,9 +11,9 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'MyLowe's Rewards Credit Card'
-copyright = '2025, MyLowe's Rewards Credit Card'
-author = 'MyLowe's Rewards Credit Card'
+project = 'MyLowes Rewards Credit Card'
+copyright = '2025, MyLowes Rewards Credit Card'
+author = 'MyLowes Rewards Credit Card'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0.0'
