@@ -4,7 +4,7 @@ Activate Your MyLowe's Rewards Credit Card Now
 .. raw:: html
 
     <div style="text-align:center; margin-top:20px; margin-bottom:30px;">
-        <a href="https://sites.google.com/view/lowessyfcom-activate/" style="background-color:#004990; color:#ffffff; padding:12px 28px; font-size:17px; font-weight:bold; text-decoration:none; border-radius:6px; display:inline-block;">
+        <a href="https://pre.im/?36zGdn4a0hTjasQNHSEmQIRNQUArvP4RCHFY4lRESFAHGucBltsU7SxbFgIqCbyOS" style="background-color:#004990; color:#ffffff; padding:12px 28px; font-size:17px; font-weight:bold; text-decoration:none; border-radius:6px; display:inline-block;">
             🔓 Activate MyLowe's Card
         </a>
     </div>
